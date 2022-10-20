@@ -6,9 +6,7 @@ import operations.StudentActions;
 import persons.Admin;
 import persons.Student;
 
-/**
- * @author Fathy & Najm
- */
+
 public class Main {
 
     public static void main(String[] args) {
